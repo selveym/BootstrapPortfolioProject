@@ -100,5 +100,10 @@ footer {
     top: 10px;
 }
 
+.introtext {
+    font-size: 32px !important;
+    bottom: 30px;
+    text-align: center;
+}
 
 
